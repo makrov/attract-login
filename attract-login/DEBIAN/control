@@ -1,0 +1,11 @@
+Package: attract-login
+Version: 1
+Section: Games
+Priority: optional
+Architecture: all
+Depends: attract
+Suggests: steam, mame, mednafen
+Maintainer: Makrov <hackerlabinfo@gmail.com>
+Installed-size: 52
+Homepage: https://github.com/makrov/attract-login/
+Description: Put Attract mode at login screen.

@@ -1,10 +1,13 @@
-steam-login
+attract-login
 ===========
 
-Put STEAM BigPicture mode at login screen
+Put Attract Mode at login screen
 
 NEWS
 ----
+* *Version 0.1*<br/>
+fork from steam-login 
+
 * *Version 8* <br/>
 Improve primusrun. better performance with "optirun -b primus" than "primusrun" (thanks to xXxDeadStarxXx <axy.david@gmail.com>). PPA for Ubuntu Saucy.
 

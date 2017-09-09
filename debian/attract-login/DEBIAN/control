@@ -1,0 +1,10 @@
+Package: attract-login
+Version: 0.1-1
+Architecture: amd64
+Maintainer: Filippo Carandente <hackerlabinfo@gmail.com>
+Installed-Size: 10
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

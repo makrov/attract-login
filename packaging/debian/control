@@ -1,34 +1,26 @@
-Source: steam-login
+Source: attract-login
 Section: x11
 Priority: optional
-Maintainer: Thomaz Reis <thor27@gmail.com>
+Maintainer: Makrov <hackerlabinfo@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
-Homepage: https://github.com/thor27/steam-login/
-Vcs-Git: https://github.com/thor27/steam-login.git
-Vcs-Browser: https://github.com/thor27/steam-login/
+Homepage: https://github.com/makrov/attract-login/
+Vcs-Git: https://github.com/makrov/attract-login.git
+Vcs-Browser: https://github.com/makrov/attract-login/
 
-Package: steam-session
+Package: attract-session
 Architecture: all
 Depends:
  ${misc:Depends},
- steam | steam-launcher,
+ attract,
  wmctrl,
  x11-xserver-utils,
- xfwm4,
  xinput,
  zenity
 Suggests:
- bumblebee,
- gnome-settings-daemon,
- nvidia-settings,
- primus,
- xserver-xorg-input-joystick
-Provides: steam-login
-Replaces: steam-login
-Description: Launch Steam Big Picture from your login screen
- With the release of Steam Beta, and steam BigPicture mode on Linux, this
- package will put Steam as a login option, so you will be able to open only
- Steam and needed software to make it run correctly.
- It's almost a Steam Desktop.
-
+mednafen,
+steam,
+mame
+Provides: attract-login
+Replaces: attract-login
+Description: Launch Attract Mode from login screen.

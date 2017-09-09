@@ -1,3 +1,10 @@
+attract-login (0.1)
+
+	* debian 9.x
+	*fork from steam-login
+
+ -- Makrov <hackerlabinfo@gmail.com>
+
 steam-login (9.1~utopic1) utopic; urgency=low
 
   * Utopic release

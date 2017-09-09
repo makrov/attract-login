@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Attract Mode
+Comment=Start Attract Mode
+Exec=/usr/games/attract
+TryExec=/usr/games/attract
+Icon=
+Type=Application

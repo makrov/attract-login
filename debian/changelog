@@ -1,0 +1,5 @@
+attract-login (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Filippo Carandente <hackerlabinfo@gmail.com>  Sat, 09 Sep 2017 08:26:18 +0200
